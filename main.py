@@ -12,7 +12,6 @@ def play_menu_sound(option):
     """
     :type option: str
     :return: None
-
     Plays a sound based on the 'option' argument
     """
     if option == 'menu_bar':
@@ -31,11 +30,8 @@ def open_popup():
 
 def update_values():
     """
-
     :return: None
-
     Updates the content in the dropdown menu based on the keyword entered in the text field.
-
     """
     pygame.mixer.music.load('music/button-3.wav')
     pygame.mixer.music.play()
@@ -58,11 +54,9 @@ def update_values():
 
 def open_link(my_url):
     """
-
     :param my_url: URL
     :type my_url: str
     :return: None
-
     Opens the provided URL in your default browser.
     """
     pygame.mixer.music.load('music/open_browser.wav')
@@ -72,10 +66,8 @@ def open_link(my_url):
 
 def get_text(event=None):
     """
-
     :param event: None
     :return: None
-
     Gets the recommendations and shows it in a text widget.
     """
     pygame.mixer.music.load('music/button-3.wav')
@@ -103,8 +95,8 @@ def get_text(event=None):
     text_widget.config(highlightcolor='black', highlightbackground="black", highlightthickness=2)
     text_widget.place(x=185, y=310)
     # adding scrollbar to the text widget
-    scroll_y = Scrollbar(frame, orient='vertical', command=text_widget.yview)
-    scroll_y.place(x=773, y=313, relheight=0.31)
+    scroll_y = Scrollbar(text_widget, orient='vertical', command=text_widget.yview)
+    scroll_y.place(x=185*3 + 30, relheight=1)
     text_widget.configure(state='disabled', yscrollcommand=scroll_y.set)  # making the text widget un-editable
 
 
