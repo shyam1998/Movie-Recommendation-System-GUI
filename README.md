@@ -1,6 +1,6 @@
-# movie-recommendation-system-GUI
-<b> Instructions </b>
+<h2> Movie Recommendation System with GUI </h2> 
 <p> <b> NOTE: Python 3.8.2 or higher required </b> </p>
+<b> Instructions </b>
 <b> Windows: </b>
 
 <ol> 
