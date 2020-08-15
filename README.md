@@ -1,11 +1,13 @@
 <h1> movie-recommendation-system-GUI </h1> 
 
 <b> Screenshots: </b>
-<img src="https://imgur.com/CtSGxHx"> </img>
+<p> <img src="https://imgur.com/CtSGxHx.jpg" width=750 height=650> </img> </p>
+<p> <img src="https://imgur.com/hULszNi.jpg" width=750 height=650> </img> </p>
 
-<p> <b> NOTE: Python 3.8.2 or higher required </b> </p>
+
 <b> Installation </b>
-<b> Windows: </b>
+<p> <b> NOTE: Python 3.8.2 or higher required </b> </p>
+<p> <b> Windows: </b> </p>
 
 <ol> 
 
