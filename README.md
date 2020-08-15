@@ -5,7 +5,7 @@
 <p> <img src="https://imgur.com/hULszNi.jpg" width=750 height=650> </img> </p>
 
 
-<b> Installation </b>
+<b> Installation: </b>
 <p> <b> NOTE: Python 3.8.2 or higher required </b> </p>
 <p> <b> Windows: </b> </p>
 
@@ -71,4 +71,4 @@
 </ol>
 
 <b> Mac: </b>
-<p> Need testers for mac! contact me through <a href="mailto:shyam.sk1998@gmail.com"> email </a> </p>
+<p> Need testers for mac! contact me through <a href="mailto:shyam.sk1998@gmail.com">email</a> . </p>
