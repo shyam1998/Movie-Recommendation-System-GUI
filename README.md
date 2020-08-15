@@ -1,5 +1,5 @@
 # movie-recommendation-system-GUI
-<b> Instructions (for WINDOWS ONLY at the moment, soon will include instructions for other platforms) </b>
+<b> Instructions (special instructions for Ubuntu will be added later) </b>
 
 <b> NOTE: Python 3.8.2 or higher required </b>
 
