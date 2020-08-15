@@ -8,7 +8,7 @@ import numpy as np
 
 ###########################################################################################################
 
-                        # CHECK THE NOTEBOOK FILE (.ipynb) FOR EXPLANATION OF THIS CODE #
+                        # CHECK THE NOTEBOOK FILE (notebooks/movie-recommendation-system.ipynb) FOR EXPLANATION OF THIS CODE #
 
 ###########################################################################################################
 
