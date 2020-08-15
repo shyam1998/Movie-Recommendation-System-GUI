@@ -1,4 +1,4 @@
-<h1> movie-recommendation-system-GUI </h1> 
+<h1> Movie Recommendation System GUI </h1> 
 
 <b> Screenshots: </b>
 <p> <img src="https://imgur.com/CtSGxHx.jpg" width=750 height=650> </img> </p>
