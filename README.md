@@ -63,3 +63,6 @@
         Done!
      </li>
 </ol>
+
+<b> Mac: </b>
+<p> Need testers for mac! contact me through <a href="mailto:shyam.sk1998@gmail.com"> email </a> </p>
