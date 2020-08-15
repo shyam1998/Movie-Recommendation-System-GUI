@@ -22,5 +22,5 @@
 
 </ol>
 
-
+<p> Alternatively, simply download and run the executable from here: <a href="https://drive.google.com/file/d/18a1pgmLth2fmg3WAnX1czqA_uh9jHb2G/view?usp=sharing"> Google Drive </p>
 
